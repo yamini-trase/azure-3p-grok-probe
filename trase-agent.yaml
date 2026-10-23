@@ -1,0 +1,3 @@
+name: cc-test-azure-3p-grok-github-20261023
+framework: custom
+entrypoint: agent.main:run
